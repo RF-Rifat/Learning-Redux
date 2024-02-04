@@ -307,3 +307,8 @@ hr {
   display: flex;
   justify-content: space-around;
 }
+
+nav svg {
+  width: 40px;
+  color: var(--clr-white);
+}
